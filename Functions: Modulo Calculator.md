@@ -15,17 +15,14 @@ To write a Python program that defines a function which accepts two values and r
 def result(a, b):
     return a % b
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = int(input())
+b = int(input())
 print("The result of the modulo operation is:", result(a, b))
 ```
 
 ## Output
-```
-Enter first number: 10
-Enter second number: 3
-The result of the modulo operation is: 1
-```
+![image](https://github.com/user-attachments/assets/1d6cd4c7-b1ce-42b7-87a8-054b1cc2b7f8)
+
 
 ## Result
 
