@@ -15,9 +15,8 @@ print(bin(a))
 ```
 
 ## Output
-```
-0b10000
-```
+![image](https://github.com/user-attachments/assets/23e036bf-9310-495e-8883-0a068b5cece1)
+
 
 ## Result
 
